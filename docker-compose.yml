@@ -1,0 +1,21 @@
+nginx:
+  extends:
+    file: nginx/docker-compose.yml
+    service: nginx
+  links:
+    - registry: registry
+    - regquery: regquery
+  volumes:
+    - ./nginx/conf.d/domain.key: /etc/nginx/conf.d/domain.key
+ 
+registry:
+  extends:
+    file: registry/docker-compose.yml
+    service: registry
+
+regquery:
+  extends:
+    file: registry-query/docker-compose.yml
+    service: web
+  links:
+    - registry:registry
