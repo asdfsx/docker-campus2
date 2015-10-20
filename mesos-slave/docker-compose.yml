@@ -1,5 +1,5 @@
 mesosslave:
-  image: mesoscloud/mesos-slave
+  image: registry.ptengine.cn/mesoscloud/mesos-slave
   net: host
   environment:
     - MESOS_IP=0.0.0.0

@@ -1,5 +1,5 @@
 chronos:
-  image: mesoscloud/chronos
+  image: registry.ptengine.cn/mesoscloud/chronos
   ports:
     - 4400:4400
   environment:

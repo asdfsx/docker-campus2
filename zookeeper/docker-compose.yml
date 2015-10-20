@@ -1,5 +1,5 @@
 zookeeper:
-  image:  mesoscloud/zookeeper
+  image:  registry.ptengine.cn/mesoscloud/zookeeper
   ports:
     - 2181:2181
     - 2888:2888

@@ -1,5 +1,5 @@
 mesosmaster:
-  image: mesoscloud/mesos-master
+  image: registry.ptengine.cn/mesoscloud/mesos-master
   net: host
   environment:
     - MESOS_HOSTNAME_LOOKUP=false

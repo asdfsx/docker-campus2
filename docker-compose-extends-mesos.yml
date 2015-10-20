@@ -26,3 +26,8 @@ chronos:
     service: chronos
   links:
     - zookeeper:zookeeper
+
+mesosdns:
+  extends:
+    file: mesos-dns/docker-compose.yml
+    service: mesosdns

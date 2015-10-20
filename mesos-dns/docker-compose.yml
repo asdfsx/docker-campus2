@@ -1,0 +1,6 @@
+mesosdns:
+  image: registry.ptengine.cn/mesosphere/mesos-dns
+  net: host
+  volumes:
+    - ./config.json:/config.json
+  command: /mesos-dns -config=/config.json
