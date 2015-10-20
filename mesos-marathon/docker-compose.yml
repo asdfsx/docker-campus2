@@ -1,5 +1,5 @@
 marathon:
-  image: mesoscloud/marathon
+  image: registry.ptengine.cn/mesoscloud/marathon
   ports:
     - 7070:7070
   environment:
