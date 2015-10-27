@@ -1,0 +1,69 @@
+http://updates.jenkins-ci.org/latest/mesos.hpi
+http://updates.jenkins-ci.org/latest/git.hpi
+  http://updates.jenkins-ci.org/latest/promoted-builds.hpi
+    http://updates.jenkins-ci.org/latest/rebuild.hpi
+    http://updates.jenkins-ci.org/latest/token-macro.hpi
+    http://updates.jenkins-ci.org/latest/maven-plugin.hpi
+      http://updates.jenkins-ci.org/latest/javadoc.hpi
+      http://updates.jenkins-ci.org/latest/mailer.hpi
+      http://updates.jenkins-ci.org/latest/token-macro.hpi
+      http://updates.jenkins-ci.org/latest/junit.hpi
+  http://updates.jenkins-ci.org/latest/credentials.hpi
+  http://updates.jenkins-ci.org/latest/git-client.hpi
+    http://updates.jenkins-ci.org/latest/ssh-credentials.hpi
+      http://updates.jenkins-ci.org/latest/credentials.hpi
+  http://updates.jenkins-ci.org/latest/scm-api.hpi
+  http://updates.jenkins-ci.org/latest/mailer.hpi
+  http://updates.jenkins-ci.org/latest/token-macro.hpi
+  http://updates.jenkins-ci.org/latest/matrix-project.hpi
+    http://updates.jenkins-ci.org/latest/script-security.hpi
+    http://updates.jenkins-ci.org/latest/junit.hpi
+  http://updates.jenkins-ci.org/latest/ssh-credentials.hpi
+    http://updates.jenkins-ci.org/latest/credentials.hpi
+  http://updates.jenkins-ci.org/latest/parameterized-trigger.hpi
+    http://updates.jenkins-ci.org/latest/subversion.hpi
+      http://updates.jenkins-ci.org/latest/mapdb-api.hpi
+      http://updates.jenkins-ci.org/latest/ssh-credentials.hpi
+        http://updates.jenkins-ci.org/latest/credentials.hpi
+      http://updates.jenkins-ci.org/latest/credentials.hpi
+      http://updates.jenkins-ci.org/latest/scm-api.hpi
+    http://updates.jenkins-ci.org/latest/promoted-builds.hpi
+      http://updates.jenkins-ci.org/latest/rebuild.hpi
+      http://updates.jenkins-ci.org/latest/token-macro.hpi
+      http://updates.jenkins-ci.org/latest/maven-plugin.hpi
+        http://updates.jenkins-ci.org/latest/javadoc.hpi
+        http://updates.jenkins-ci.org/latest/mailer.hpi
+        http://updates.jenkins-ci.org/latest/token-macro.hpi
+        http://updates.jenkins-ci.org/latest/junit.hpi
+    http://updates.jenkins-ci.org/latest/matrix-project.hpi
+      http://updates.jenkins-ci.org/latest/script-security.hpi
+      http://updates.jenkins-ci.org/latest/junit.hpi
+    http://updates.jenkins-ci.org/latest/conditional-buildstep.hpi
+      http://updates.jenkins-ci.org/latest/maven-plugin.hpi
+        http://updates.jenkins-ci.org/latest/javadoc.hpi
+        http://updates.jenkins-ci.org/latest/mailer.hpi
+        http://updates.jenkins-ci.org/latest/token-macro.hpi
+        http://updates.jenkins-ci.org/latest/junit.hpi
+      http://updates.jenkins-ci.org/latest/run-condition.hpi
+        http://updates.jenkins-ci.org/latest/token-macro.hpi
+      http://updates.jenkins-ci.org/latest/token-macro.hpi      
+
+http://updates.jenkins-ci.org/latest/github.hpi
+  http://updates.jenkins-ci.org/latest/plain-credentials.hpi
+    http://updates.jenkins-ci.org/latest/credentials.hpi
+  http://updates.jenkins-ci.org/latest/git.hpi
+  http://updates.jenkins-ci.org/latest/credentials.hpi    
+  http://updates.jenkins-ci.org/latest/github-api.hpi
+
+http://updates.jenkins-ci.org/latest/gitlab-plugin.hpi
+
+http://updates.jenkins-ci.org/latest/windows-slaves.hpi
+http://updates.jenkins-ci.org/latest/translation.hpi
+http://updates.jenkins-ci.org/latest/pam-auth.hpi
+http://updates.jenkins-ci.org/latest/matrix-auth.hpi
+http://updates.jenkins-ci.org/latest/ldap.hpi
+  http://updates.jenkins-ci.org/latest/mailer.hpi
+http://updates.jenkins-ci.org/latest/external-monitor-job.hpi
+http://updates.jenkins-ci.org/latest/cvs.hpi
+http://updates.jenkins-ci.org/latest/ant.hpi
+http://updates.jenkins-ci.org/latest/antisamy-markup-formatter.hpi

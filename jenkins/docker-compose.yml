@@ -1,0 +1,7 @@
+jenkins:
+  build: .
+  dockerfile: Dockerfile
+  ports:
+    - 19090:19090
+  command:
+    java -jar /usr/share/jenkins/jenkins.war --httpPort=19090
